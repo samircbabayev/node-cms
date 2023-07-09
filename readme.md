@@ -1,6 +1,6 @@
 # CrowdHead CMS
 
-A simple Blogging CMS in Node.js.
+A simple CMS in Node.js.
 
 A very lightweight and simple content management system, created with node.js. Can be easily reused in other projects also.
 
